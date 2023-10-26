@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/audio_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/audio_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/audio_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/text_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/text_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/text_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/image_segmentation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/image_segmentation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/image_segmentation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/bertqa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/bertqa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/bertqa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/style_transfer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/style_transfer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/style_transfer/.pub" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
